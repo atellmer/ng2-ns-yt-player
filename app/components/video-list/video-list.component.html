@@ -1,0 +1,13 @@
+<GridLayout cklass="video-list">
+	<ListView [items]="videos" class="video-list__list-view">
+		<template let-item="item">
+			<StackLayout orientation="horizontal" (tap)="selectVideo(item)">
+				<Image 
+					[src]="item.snippet.thumbnails.high.url" 
+					stretch="none">
+				</Image>
+				<Label [text]="item.snippet.description" textWrap="true" class="video-list__desc"></Label>
+			</StackLayout>
+		</template>
+	</ListView>
+</GridLayout>

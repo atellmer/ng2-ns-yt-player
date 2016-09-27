@@ -1,0 +1,94 @@
+{
+  "name": "nativescript-videoplayer",
+  "version": "1.0.7",
+  "main": "videoplayer.js",
+  "description": "A NativeScript plugin that uses the native video players to play local and remote videos.",
+  "nativescript": {
+    "platforms": {
+      "android": "1.7.0",
+      "ios": "1.7.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradmartin/nativescript-videoplayer.git"
+  },
+  "keywords": [
+    "NativeScript",
+    "Android",
+    "iOS",
+    "TypeScript",
+    "video",
+    "video player",
+    "movie",
+    "bradmartin",
+    "Thorum"
+  ],
+  "contributors": [
+    {
+      "name": "Nathanael Anderson",
+      "email": "nathan@master-technology",
+      "url": "https://github.com/nathanaela"
+    },
+    {
+      "name": "Alexander Ziskind",
+      "email": "alex@nuvious.com",
+      "url": "https://github.com/alexziskind1"
+    },
+    {
+      "name": "Blake Nussey",
+      "email": "blake@stageme.com",
+      "url": "https://github.com/bnussey"
+    }
+  ],
+  "author": {
+    "name": "Brad Martin",
+    "email": "bradmartin0905@gmail.com",
+    "url": "https://github.com/bradmartin"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/bradmartin/nativescript-videoplayer/issues"
+  },
+  "homepage": "https://github.com/bradmartin/nativescript-videoplayer",
+  "gitHead": "7a5addbe9192a7708fbaac9db42e33f2a156fea6",
+  "_id": "nativescript-videoplayer@1.0.7",
+  "scripts": {},
+  "_shasum": "258230afed49e85390cd914fe9f3b76616fe691a",
+  "_from": "nativescript-videoplayer@latest",
+  "_resolved": "https://registry.npmjs.org/nativescript-videoplayer/-/nativescript-videoplayer-1.0.7.tgz",
+  "_npmVersion": "2.15.8",
+  "_nodeVersion": "4.4.7",
+  "_npmUser": {
+    "name": "bnussey",
+    "email": "blake.nussey@gmail.com"
+  },
+  "dist": {
+    "shasum": "258230afed49e85390cd914fe9f3b76616fe691a",
+    "tarball": "https://registry.npmjs.org/nativescript-videoplayer/-/nativescript-videoplayer-1.0.7.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "alexziskind1",
+      "email": "alex@nuvious.com"
+    },
+    {
+      "name": "bnussey",
+      "email": "blake.nussey@gmail.com"
+    },
+    {
+      "name": "bradmartin",
+      "email": "bradmartin0905@gmail.com"
+    },
+    {
+      "name": "nathanaela",
+      "email": "nathan@master-technology.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-videoplayer-1.0.7.tgz_1474961859030_0.2909400323405862"
+  },
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}
