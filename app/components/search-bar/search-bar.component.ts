@@ -4,7 +4,6 @@ import {
   Output,
   EventEmitter,
 } from '@angular/core';
-import { Observable as rxObservable } from 'rxjs/Rx';
 
 @Component({
   moduleId: module.id,
