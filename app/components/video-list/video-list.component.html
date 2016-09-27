@@ -1,12 +1,30 @@
-<GridLayout cklass="video-list">
+<GridLayout class="video-list">
 	<ListView [items]="videos" class="video-list__list-view">
 		<template let-item="item">
 			<StackLayout orientation="horizontal" (tap)="selectVideo(item)">
 				<Image 
-					[src]="item.snippet.thumbnails.high.url" 
+					*ngIf="isIOS"
+					src="{{ item.snippet.thumbnails.medium.url }}" 
 					stretch="none">
 				</Image>
-				<Label [text]="item.snippet.description" textWrap="true" class="video-list__desc"></Label>
+				<FrescoDrawee 
+					*ngIf="isAndroid"
+					width="150" 
+					height="100"
+					imageUri="{{ item.snippet.thumbnails.medium.url }}">
+				</FrescoDrawee>
+				<StackLayout class="video-list__text">
+					<Label 
+						text="{{ item.snippet.title }}" 
+						textWrap="true" 
+						class="video-list__title">
+					</Label>
+					<Label 
+						text="{{ item.snippet.description }}" 
+						textWrap="true" 
+						class="video-list__desc">
+					</Label>
+				</StackLayout>
 			</StackLayout>
 		</template>
 	</ListView>

@@ -1,0 +1,73 @@
+{
+  "name": "nativescript-fresco",
+  "version": "1.0.10",
+  "description": "This is a NativeScript plugin wrapping the popular Fresco library for managing images on Android.",
+  "main": "nativescript-fresco.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NativeScript/nativescript-fresco.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NativeScript/nativescript-fresco/issues"
+  },
+  "files": [
+    "*.js",
+    "platforms",
+    "index.d.ts"
+  ],
+  "nativescript": {
+    "ios": "2.3.0",
+    "android": "2.3.0"
+  },
+  "devDependencies": {
+    "tns-core-modules": "2.3.0"
+  },
+  "keywords": [
+    "fresco",
+    "android",
+    "nativescript"
+  ],
+  "author": {
+    "name": "Deyan Ginev",
+    "email": "Deyan.Ginev@telerik.com"
+  },
+  "contributors": [
+    {
+      "name": "Deyan Ginev",
+      "email": "Deyan.Ginev@telerik.com"
+    },
+    {
+      "name": "Vladimir Amiorkov",
+      "email": "Vladimir.Amiorkov@telerik.com"
+    }
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/NativeScript/nativescript-fresco#readme",
+  "_id": "nativescript-fresco@1.0.10",
+  "_shasum": "c325f0a443d9f2542033061d053f8c1c749b6f34",
+  "_resolved": "https://registry.npmjs.org/nativescript-fresco/-/nativescript-fresco-1.0.10.tgz",
+  "_from": "nativescript-fresco@latest",
+  "scripts": {},
+  "_npmVersion": "2.15.6",
+  "_nodeVersion": "4.4.1",
+  "_npmUser": {
+    "name": "amiorkov",
+    "email": "v.amiorkov@gmail.com"
+  },
+  "dist": {
+    "shasum": "c325f0a443d9f2542033061d053f8c1c749b6f34",
+    "tarball": "https://registry.npmjs.org/nativescript-fresco/-/nativescript-fresco-1.0.10.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "amiorkov",
+      "email": "v.amiorkov@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-fresco-1.0.10.tgz_1474376380962_0.6648657324258238"
+  },
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}

@@ -1,10 +1,20 @@
 "use strict";
 var core_1 = require('@angular/core');
+var app = require('application');
 var VideoListComponent = (function () {
     function VideoListComponent() {
         this.selectedVideo = new core_1.EventEmitter();
+        this.isAndroid = false;
+        this.isIOS = false;
     }
-    VideoListComponent.prototype.ngOnInit = function () { };
+    VideoListComponent.prototype.ngOnInit = function () {
+        if (app.android) {
+            this.isAndroid = true;
+        }
+        if (app.ios) {
+            this.isIOS = true;
+        }
+    };
     VideoListComponent.prototype.selectVideo = function (video) {
         this.selectedVideo.emit(video);
     };

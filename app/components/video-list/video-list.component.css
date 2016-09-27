@@ -1,7 +1,17 @@
 .video-list__list-view {
 	margin: 5;
 }
-.video-list__desc {
-	font-size: 10;
+
+.video-list__text {
 	padding: 0 10;
+}
+
+.video-list__title {
+	font-size: 10;
+	font-family: 'Roboto-Bold';
+}
+
+.video-list__desc {
+	font-size: 8;
+	margin: 5 0 0 0;
 }

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-vector-drawable-23.4.0_b22bb9a748c1a71321c2d24ee545d05e63b71941.jar" />
+    </item>
+    <item
+        jar="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
+        <dex dex="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.facebook.fresco-imagepipeline-base-0.9.0_853bcd234303ed6683c0deab72c1a9bf88bf5eae.jar" />
+    </item>
+    <item
+        jar="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="57528b5deee77bfa2188fc279fd45066366f17f5">
+        <dex dex="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.facebook.fresco-imagepipeline-0.9.0_cda0c5ec9308d7aed67ad014c79bb54a9d387b72.jar" />
+    </item>
+    <item
+        jar="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3158c15bb0ae97575debdb40cfcd8f0f9f244526">
+        <dex dex="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.facebook.fresco-drawee-0.9.0_ed8c1eaedbf45df6cdef5b44b2e300c063053faf.jar" />
+    </item>
+    <item
+        jar="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f3064a6bb3bf091d8ef08a38816df98e4c033ce2">
+        <dex dex="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-widgets-release_a89f5a20b550b6c5c9850b2cf9c92a16f3c2ad1b.jar" />
+    </item>
+    <item
+        jar="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-appcompat-v7-23.4.0_53823e939d407ab84e25b56b901a6d7de5389788.jar" />
+    </item>
+    <item
+        jar="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ca51025f4a58fc7fb6cfaa85e7d09b7ae47e6187">
+        <dex dex="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.facebook.fresco-fresco-0.9.0_6f24b47ef5903bfb9b5822597e65ccbfcc67088d.jar" />
+    </item>
+    <item
+        jar="C:\Users\atell\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\pre-dexed\F0F1\debug\library-2.4.0_53f1f41835ca22d0e790168f33b1dd12bfa1cac1.jar" />
+    </item>
+    <item
+        jar="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\pre-dexed\F0F1\debug\internal_impl-23.4.0_b97da88fc38f58a0cabccc63ee89eec89ee84acb.jar" />
+    </item>
+    <item
+        jar="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4ee95617ab850030c51486d02bc9d207b14419c6">
+        <dex dex="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.facebook.fresco-fbcore-0.9.0_3a5da631845c29f61d05c78f58aa262bed530847.jar" />
+    </item>
+    <item
+        jar="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-animated-vector-drawable-23.4.0_c1b1412e95effb791619bf820e0a668b28300c30.jar" />
+    </item>
+    <item
+        jar="C:\Users\atell\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\pre-dexed\F0F1\debug\support-annotations-23.4.0_49b3e67a126e4526f85e0964df847e0b07ac66b7.jar" />
+    </item>
+    <item
+        jar="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-v4-23.4.0_f61e12f592200418901928095d095f88a09aeccc.jar" />
+    </item>
+    <item
+        jar="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\exploded-aar\ytapp\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9909ad5fcc13fcc60529cfa340ee7e0abc79af38">
+        <dex dex="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\pre-dexed\F0F1\debug\ytapp-runtime-unspecified_0ca7fb3e9ac76caad27c29916bd6cbb61a078c27.jar" />
+    </item>
+    <item
+        jar="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\exploded-aar\ytapp\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4290aba11bda501dbadc2dd5c4b08282c0bbfeb8">
+        <dex dex="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\pre-dexed\F0F1\debug\binding-generator_7ef928d88ea8fe5a6abbd0f7df490ebb5356e97d.jar" />
+    </item>
+    <item
+        jar="C:\Users\atell\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="E:\apps\tutorials\nativescript\yt-app\platforms\android\build\intermediates\pre-dexed\F0F1\debug\bolts-android-1.1.4_c912b4a96497a0cd4218a2e7b54f4d3545bd76bb.jar" />
+    </item>
+
+</items>

@@ -37,10 +37,10 @@ export class AppComponent implements OnInit {
 	}
 
 	getData(term: string): void {
-	this.searchService.getData(term)
-		.subscribe(res => {
-			this.data.videos = res;
-			this.data.selectedVideo = this.data.videos[0];
-		});
+		this.searchService.getData(term)
+			.subscribe(res => {
+				this.data.videos = res;
+				this.data.selectedVideo = this.data.videos[0];
+			});
 	}
 }

@@ -13,7 +13,7 @@ var SearchService = (function () {
         params.set('key', constants_1.API_KEY);
         params.set('q', term);
         params.set('part', 'snippet');
-        params.set('maxResults', '10');
+        params.set('maxResults', '50');
         params.set('type', 'video');
         var data$ = this.http.get(URL, { search: params })
             .map(function (res) { return res.json().items; });

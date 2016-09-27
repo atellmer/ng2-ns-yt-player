@@ -1,8 +1,9 @@
 import { Injectable } from '@angular/core';
 import {
-  Http,
-  Response,
-  URLSearchParams } from '@angular/http';
+	Http,
+	Response,
+	URLSearchParams
+} from '@angular/http';
 import { Observable } from 'rxjs/Rx';
 import 'rxjs/add/operator/map';
 
@@ -20,7 +21,7 @@ export class SearchService {
 		params.set('key', API_KEY);
 		params.set('q', term);
 		params.set('part', 'snippet');
-		params.set('maxResults', '10');
+		params.set('maxResults', '50');
 		params.set('type', 'video');
 
 		const data$ = this.http.get(URL, { search: params })

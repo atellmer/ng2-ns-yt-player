@@ -1,10 +1,5 @@
 <DockLayout class="app">
 	<StackLayout>
-		<Image 
-			src="~/images/logo.png" 
-			stretch="none" 
-			horizontalAlignment="center">
-		</Image>
 		<app-search-bar (search)="searchHandler($event)"></app-search-bar>
 		<app-video-detail [video]="data.selectedVideo"></app-video-detail>
 		<app-video-list [videos]="data.videos" (selectedVideo)="selectedVideo($event)"></app-video-list>

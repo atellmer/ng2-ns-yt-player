@@ -1,9 +1,7 @@
-<StackLayout>
-	<VideoPlayer
-		*ngIf="url"
+<StackLayout class="video-detail">
+	<WebView 
+		*ngIf="url" 
 		src="{{ url }}"
-		controls="true"
-		autoplay="true" 
-		height="300">
-</VideoPlayer>
+		class="video-detail__web-view">
+	</WebView>
 </StackLayout>
